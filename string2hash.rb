@@ -1,5 +1,5 @@
 # Given this array of strings
-# use whatever you would consider to be most correct/clean/rad
+# use whatever means you would consider to be most correct/clean/rad
 # to output a hash where the integer portion of each string is a key,
 # with it's corresponding name as the value.
 # prove it's correctness using a simple test.
